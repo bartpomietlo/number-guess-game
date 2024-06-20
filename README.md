@@ -17,6 +17,7 @@ Gramy dopóki zgadniemy lub skończy nam się liczba prób
 
 
 Mamy również możliwość powtórzenia gry:
+
 ![image](https://github.com/bartpomietlo/number-guess-game/assets/163325596/a61e4d63-7487-468b-b562-442dbfcd70d3)
 
 
